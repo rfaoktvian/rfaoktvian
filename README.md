@@ -53,12 +53,19 @@ I'm a data enthusiast on a continuous learning journey — from raw datasets to 
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rfaoktvian&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfaoktvian&layout=compact&theme=default&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfaoktvian&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rfaoktvian&layout=compact&theme=default&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rfaoktvian&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 

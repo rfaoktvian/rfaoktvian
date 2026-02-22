@@ -41,15 +41,46 @@ I'm a data enthusiast on a continuous learning journey — from raw datasets to 
 
 ---
 
-### 📈 Learning Journey
 
-```
-2022  ──▶  SQL & Data Basics
-2023  ──▶  Python for Data Analysis (Pandas, NumPy, Visualization)
-2024  ──▶  Machine Learning (Sklearn), BigQuery, Looker Studio
-2025  ──▶  Deep Learning, NLP, End-to-End Data Pipelines
-2026  ──▶  Expanding into LLMs & Production-grade ML Systems  🚀
-```
+### 🚀 Project Highlights
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Sentiment Analysis — 2024 Presidential Debate</h4>
+      <img src="https://img.shields.io/badge/NLP-A855F7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bi--LSTM-7C3AED?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <br/><br/>
+      <p>Analyzed Indonesian social media sentiment using Bidirectional LSTM. Achieved <strong>87% accuracy</strong> with custom text preprocessing for Indonesian language.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💳 Credit Risk Prediction — Multifinance</h4>
+      <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Random%20Forest-16A34A?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <br/><br/>
+      <p>Built a binary classification model to predict borrower credit risk. Compared Logistic Regression vs Random Forest using <strong>ROC-AUC</strong> to minimize default risk.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👥 Customer Segmentation — Behavioral Clustering</h4>
+      <img src="https://img.shields.io/badge/Clustering-7C3AED?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unsupervised%20ML-4C1D95?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <br/><br/>
+      <p>Segmented customers into <strong>4 distinct groups</strong> based on purchase frequency, transaction volume & spending patterns to support marketing strategy and retention.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Customer Behaviour Dashboard — Netmonk <em>(Intern)</em></h4>
+      <img src="https://img.shields.io/badge/Looker%20Studio-8B5CF6?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dashboard-2563EB?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      <p>Designed an end-to-end analytics dashboard tracking Active Users, Session Duration, Bounce Rate, Top Pages, Device Category & <strong>User Journey Funneling</strong>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,11 +102,4 @@ I'm a data enthusiast on a continuous learning journey — from raw datasets to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazly-rafa-oktafian-nuzqu-8686622aa/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaoktavian2005@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-<sub>⚡ Always learning. Always building. Data-driven by choice.</sub>
-</div>
 
